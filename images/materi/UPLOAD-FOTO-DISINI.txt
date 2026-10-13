@@ -1,0 +1,29 @@
+Upload semua foto ke folder ini dengan nama file:
+
+=== MODUL 1 — Gear Bukan Penghalang ===
+gear-bri.jpg              → ratio 4:3
+gear-ui.jpg               → ratio 4:3
+gear-eropa.jpg            → ratio 3:4
+gear-jepang.jpg           → ratio 4:3
+gear-sumba.jpg            → ratio 4:3
+gear-keliling-indonesia.jpg → ratio 4:3
+
+=== MODUL 3 — Profil & Portofolio ===
+profil-instagram-haydarlens.jpg → ratio 4:3
+
+=== MODUL 5 — Client Machine ===
+client-dm-reply-1.jpg     → ratio 3:4
+client-dm-reply-2.jpg     → ratio 3:4
+client-dm-reply-3.jpg     → ratio 3:4
+
+=== MODUL 7 — Monetize: Endorse ===
+endorse-sample-1.jpg      → ratio 3:4
+endorse-sample-2.jpg      → ratio 3:4
+endorse-sample-3.jpg      → ratio 3:4
+endorse-sample-4.jpg      → ratio 3:4
+
+=== MODUL 13 — Studi Kasus ===
+proof-lynkid-dashboard.jpg → ratio 4:3
+proof-dm-brand-1.jpg       → ratio 3:4
+proof-dm-brand-2.jpg       → ratio 3:4
+proof-dm-brand-3.jpg       → ratio 3:4
